@@ -1,4 +1,6 @@
 3- Réalisation de tests unitaires et mise à jour de la documentation technique.
 1- Conception et implémentation de nouvelles fonctionnalités selon les spécifications définies.
 2- Correction de bugs et optimisation du code pour améliorer les performances.
+4- Participation aux réunions techniques et aux revues de code avec l'équipe.
+5- Intégration et déploiement de l'application dans l'environnement de test ou de production.
 
